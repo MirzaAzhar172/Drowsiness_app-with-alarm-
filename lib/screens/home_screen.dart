@@ -1,8 +1,6 @@
-//amik kod ni if dekat main.dart, line 18 ada home: HomeScreen()
 import 'package:flutter/material.dart';
 import 'package:permission_handler/permission_handler.dart';
 import 'camera_screen.dart';
-import 'package:permission_handler/permission_handler.dart';
 
 class HomeScreen extends StatefulWidget {
   @override
